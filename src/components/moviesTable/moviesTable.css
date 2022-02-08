@@ -1,0 +1,10 @@
+.movies-table {
+    width: calc(100vw - 300px);
+    box-shadow: 0 0 5px 2px rgb(129, 21, 21);
+    height: calc(100vh - 250px);
+    /* background-color: rgb(236, 32, 32); */
+    background-repeat: repeat;
+    background-image: url(bg.jpg);
+    font-size: large;
+    font-weight: bold;
+}
